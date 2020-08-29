@@ -1,5 +1,5 @@
 
-Project Description: This project uses 3 different techniques, Bread-First Search, Astarh1 and Astarh2 , to solve an 8-puzzle for any given initial configuration of the board.The project consists of a State class, a class in which a priority queue is defined and three tester programs for BFS, Astarh1 and Astarh2 respectively.
+Project Description: This project uses 3 different techniques, Bread-First Search, Astarh1 (sum of displaced tiles) and Astarh2 (Manhattan distance) , to solve an 8-puzzle for any given initial configuration of the board.The project consists of a State class, a class in which a priority queue is defined and three tester programs for BFS, Astarh1 and Astarh2 respectively.
 
 Dependencies: The following commands can be used to compile these programs on a Linux OS. 
 
